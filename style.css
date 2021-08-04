@@ -36,7 +36,7 @@ body {
     width: 530px;
 	font-size:14px;
 	margin:0; padding:0; 
-	float:right;
+	float:left;
 }
 
 .main p { padding-top:0px; margin-top:0px; }
@@ -46,7 +46,7 @@ body {
 .contactbox {
     width:270px;
     margin:0; padding:0;   
-    float:left;  
+    float:right;  
 }
 
 .contact {
