@@ -50,7 +50,7 @@ body {
 }
 
 .contact {
-    width:230px;
+    width:150px;
     margin:auto; padding:0;
     font-size:13px;
 }
@@ -90,7 +90,7 @@ body {
 
 .contact img {
     margin:auto; padding:0px;
-    width:230px;
+    width:150px;
 }
 
 .social { width:160px; margin:auto; padding-top:20px;}
