@@ -6,7 +6,6 @@
 }   
 
 body {
- 	background-image: url("images/mendenhall.jpg");
 	background-color: #cccccc;
 	font-family: 'Roboto',Arial,sans-serif;
         font-weight: 300;
@@ -92,6 +91,11 @@ body {
 .contact img {
     margin:auto; padding:0px;
     width:150px;
+}
+
+.body img {
+    margin:auto; padding:0px;
+    width:800px;
 }
 
 .social { width:160px; margin:auto; padding-top:20px;}
