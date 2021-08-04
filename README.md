@@ -1,1 +1,2 @@
-## Check out my personal page!
+## Check out my personal page at https://amyjenson.github.io/.
+
