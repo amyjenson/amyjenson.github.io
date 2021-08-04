@@ -6,7 +6,8 @@
 }   
 
 body {
-	background-color:#fff;
+ 	background-image: url("images/mendenhall.jpg");
+	background-color: #cccccc;
 	font-family: 'Roboto',Arial,sans-serif;
         font-weight: 300;
 	margin:0; padding:0; 
